@@ -1,0 +1,7 @@
+C:\Users\Migena\Desktop\MEGI\Test2\Test2\bin\Debug\Test2.exe.config
+C:\Users\Migena\Desktop\MEGI\Test2\Test2\bin\Debug\Test2.exe
+C:\Users\Migena\Desktop\MEGI\Test2\Test2\bin\Debug\Test2.pdb
+C:\Users\Migena\Desktop\MEGI\Test2\Test2\obj\Debug\Test2.exe
+C:\Users\Migena\Desktop\MEGI\Test2\Test2\obj\Debug\Test2.pdb
+C:\Users\Migena\Desktop\MEGI\Test2\Test2\bin\Debug\Test2.exe.CodeAnalysisLog.xml
+C:\Users\Migena\Desktop\MEGI\Test2\Test2\bin\Debug\Test2.exe.lastcodeanalysissucceeded

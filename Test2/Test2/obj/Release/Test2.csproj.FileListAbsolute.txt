@@ -1,0 +1,5 @@
+C:\Users\Migena\Desktop\MEGI\Test2\Test2\bin\Release\Test2.exe.config
+C:\Users\Migena\Desktop\MEGI\Test2\Test2\bin\Release\Test2.exe
+C:\Users\Migena\Desktop\MEGI\Test2\Test2\bin\Release\Test2.pdb
+C:\Users\Migena\Desktop\MEGI\Test2\Test2\obj\Release\Test2.exe
+C:\Users\Migena\Desktop\MEGI\Test2\Test2\obj\Release\Test2.pdb
